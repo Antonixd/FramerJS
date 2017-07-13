@@ -1,0 +1,61 @@
+{
+  "version" : 2,
+  "root" : {
+    "id" : "6(YI)or,",
+    "__class" : "CanvasNode",
+    "parentid" : null,
+    "children" : [
+      {
+        "__class" : "OvalNode",
+        "fillType" : "color",
+        "locked" : false,
+        "centerAnchorX" : 0,
+        "parentid" : "6(YI)or,",
+        "rotation" : 0,
+        "fillEnabled" : true,
+        "top" : 0,
+        "borderWidth" : 1,
+        "right" : null,
+        "borderEnabled" : false,
+        "children" : [
+
+        ],
+        "name" : null,
+        "aspectRatioLocked" : false,
+        "id" : "tgIqu>Xg",
+        "boxShadows" : [
+          {
+            "x" : 0,
+            "color" : "rgba(0,0,0,0.25)",
+            "enabled" : false,
+            "y" : 2,
+            "__class" : "BoxShadow",
+            "inset" : false,
+            "blur" : 5
+          }
+        ],
+        "constraintsLocked" : false,
+        "left" : 0,
+        "bottom" : null,
+        "height" : 135,
+        "fillGradient" : {
+          "end" : "rgba(0,0,0,0)",
+          "alpha" : 1,
+          "angle" : 0,
+          "__class" : "LinearGradient",
+          "start" : "black"
+        },
+        "width" : 150,
+        "widthFactor" : null,
+        "targetName" : null,
+        "heightFactor" : null,
+        "fillColor" : "rgb(0, 255, 119)",
+        "borderColor" : "#222",
+        "centerAnchorY" : 0,
+        "opacity" : 1,
+        "visible" : true,
+        "clip" : false
+      }
+    ]
+  }
+}
